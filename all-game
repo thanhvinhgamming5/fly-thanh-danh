@@ -137,6 +137,7 @@ nowe = false
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "FLY Thanh Danh";
+	Title = "Bấm bay và chỉnh tốc độ để bay nha"
 	Text = "BY THANHDANH";
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 5;
